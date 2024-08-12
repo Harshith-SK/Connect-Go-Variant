@@ -1,4 +1,4 @@
-//Group40(CSE0598)
+(CSE0598)
 import java.util.Random;
 
 public class MyPlayer implements PlayerInterface {
